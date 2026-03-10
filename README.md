@@ -1,20 +1,18 @@
-# UniCare-SDG3
+# UniWell-SDG3
 
 ## SDG Chosen
 Good Health and Well-being (SDG 3)
 
 ## Team Members
--Leader: Mao Kai
-Member:
-Member:
-Member:
-Member:
+Leader: Mao Kai
+Testing: Maha abdullah ahmed 
+Design: Mariam yousef m alodah
+prototype: Huang Yi Xuan
+Member: Liu Yun Yu
 
 ##Project Description
-UniCare is a campus clinic booking system that helps students schedule appointments easily and reduce waiting time.
+UniWell is a student health tracker app that helps university students track their daily wellness habits to achieve healthier lifestyles.
 
-## SDLC Overview
-Planning: User stories and backlog created.
-Design: Wireframes and use case diagram developed.
-Development: Prototype created using Figma.
-Testing: User feedback collected and improvemrnts made.
+## Overveiw of SDLC:
+We planned the app features based on the SDG chosen, designed wireframes and a figma mockups and aslo tested out all screen flows and buttons in the prototype. Addtionally evaluated the design to guarantee it meets the project requirements.
+
